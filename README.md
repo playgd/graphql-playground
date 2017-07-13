@@ -1,2 +1,3 @@
 # graphql-playground
-Playing with GraphQL
+
+> Playing with GraphQL
